@@ -14,6 +14,8 @@
 		42CCFF551DD5717600567D54 /* CardsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42CCFF541DD5717600567D54 /* CardsViewController.swift */; };
 		42CCFF591DD573F900567D54 /* DraggableImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42CCFF581DD573F900567D54 /* DraggableImageView.swift */; };
 		42CCFF5B1DD5740900567D54 /* DraggableImageView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 42CCFF5A1DD5740900567D54 /* DraggableImageView.xib */; };
+		42CCFF5E1DD581D300567D54 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42CCFF5C1DD581D300567D54 /* ProfileViewController.swift */; };
+		42CCFF5F1DD581D300567D54 /* ProfileViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 42CCFF5D1DD581D300567D54 /* ProfileViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		42CCFF541DD5717600567D54 /* CardsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CardsViewController.swift; path = ../CardsViewController.swift; sourceTree = "<group>"; };
 		42CCFF581DD573F900567D54 /* DraggableImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DraggableImageView.swift; sourceTree = "<group>"; };
 		42CCFF5A1DD5740900567D54 /* DraggableImageView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DraggableImageView.xib; sourceTree = "<group>"; };
+		42CCFF5C1DD581D300567D54 /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		42CCFF5D1DD581D300567D54 /* ProfileViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ProfileViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +77,8 @@
 			isa = PBXGroup;
 			children = (
 				42CCFF581DD573F900567D54 /* DraggableImageView.swift */,
+				42CCFF5C1DD581D300567D54 /* ProfileViewController.swift */,
+				42CCFF5D1DD581D300567D54 /* ProfileViewController.xib */,
 				42CCFF5A1DD5740900567D54 /* DraggableImageView.xib */,
 			);
 			name = Views;
@@ -141,6 +147,7 @@
 				42CCFF4C1DD56FBD00567D54 /* LaunchScreen.storyboard in Resources */,
 				42CCFF491DD56FBD00567D54 /* Assets.xcassets in Resources */,
 				42CCFF5B1DD5740900567D54 /* DraggableImageView.xib in Resources */,
+				42CCFF5F1DD581D300567D54 /* ProfileViewController.xib in Resources */,
 				42CCFF471DD56FBD00567D54 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -154,6 +161,7 @@
 			files = (
 				42CCFF551DD5717600567D54 /* CardsViewController.swift in Sources */,
 				42CCFF591DD573F900567D54 /* DraggableImageView.swift in Sources */,
+				42CCFF5E1DD581D300567D54 /* ProfileViewController.swift in Sources */,
 				42CCFF421DD56FBD00567D54 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
